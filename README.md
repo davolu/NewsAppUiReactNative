@@ -2,4 +2,4 @@
 This is a news app UI (with dummy JSON) built with React Native. 
 
 Preview:
-![](nhttp://blog.davidoluyale.me/wp-content/uploads/2019/02/ezgif.com-video-to-gif.gif)
+![](http://blog.davidoluyale.me/wp-content/uploads/2019/02/ezgif.com-video-to-gif.gif)
